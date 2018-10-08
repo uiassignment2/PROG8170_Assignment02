@@ -1,0 +1,12 @@
+C:\Users\navde\Desktop\QA assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02.Test\bin\Debug\PROG8170_Assignment02.Test.dll
+C:\Users\navde\Desktop\QA assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02.Test\bin\Debug\PROG8170_Assignment02.Test.pdb
+C:\Users\navde\Desktop\QA assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02.Test\bin\Debug\nunit.framework.dll
+C:\Users\navde\Desktop\QA assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02.Test\bin\Debug\PROG8170_Assignment02.exe
+C:\Users\navde\Desktop\QA assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02.Test\bin\Debug\PROG8170_Assignment02.pdb
+C:\Users\navde\Desktop\QA assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02.Test\bin\Debug\PROG8170_Assignment02.exe.config
+C:\Users\navde\Desktop\QA assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02.Test\bin\Debug\nunit.framework.xml
+C:\Users\navde\Desktop\QA assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02.Test\obj\Debug\PROG8170_Assignment02.Test.csprojAssemblyReference.cache
+C:\Users\navde\Desktop\QA assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02.Test\obj\Debug\PROG8170_Assignment02.Test.csproj.CoreCompileInputs.cache
+C:\Users\navde\Desktop\QA assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02.Test\obj\Debug\PROG8170_Assignment02.Test.csproj.CopyComplete
+C:\Users\navde\Desktop\QA assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02.Test\obj\Debug\PROG8170_Assignment02.Test.dll
+C:\Users\navde\Desktop\QA assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02.Test\obj\Debug\PROG8170_Assignment02.Test.pdb

@@ -6,32 +6,30 @@ using System.Threading.Tasks;
 
 namespace PROG8170_Assignment02
 {
-    class TriangleSolver
+    public static class TriangleSolver
     {
         public static string Analyze(int sideOne, int sideTwo, int sideThree)
         {
-            string response;
-            response = "Not a triangle";
             if (ValidateSides(sideOne, sideTwo, sideThree))
             {
                 if ((sideOne == sideTwo) && (sideTwo == sideThree))
                 {
-                    response = "Equilateral";
+                    return "Equilateral";
                 }
                 if ((sideOne == sideTwo) || (sideOne == sideThree) || (sideTwo == sideThree))
                 {
-                    response = "Isosceles";
+                    return "Isosceles";
                 }
                 if ((sideOne != sideTwo) && (sideOne != sideThree) && (sideTwo != sideThree))
                 {
-                    response = "Scalene";
+                    return "Scalene";
                 }
             }
             else
             {
-                response = "Not a triangle";
+                return "Not a triangle";
             }
-            return response;
+            return "Not a triangle";
         }
 
         static Boolean ValidateSides(int sideOne, int sideTwo, int sideThree)
