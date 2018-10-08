@@ -10,7 +10,8 @@ namespace PROG8170_Assignment02
     {
         static void Main(string[] args)
         {
-
+            TriangleSolver triangleSolver = new TriangleSolver();
+            Console.ReadKey();
         }
     }
 }
